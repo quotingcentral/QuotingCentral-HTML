@@ -1,0 +1,441 @@
+.feature-card11-feature-card {
+  width: 100%;
+  display: flex;
+  padding: 0px;
+  max-width: auto;
+  box-shadow: 5px 5px 10px 0px rgba(18, 18, 18, 0.1);
+  transition: 0.3s;
+  align-items: center;
+  border-color: var(--dl-color-gray-900);
+  border-width: 1px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.feature-card11-feature-card:hover {
+  transform: scale(1.02);
+}
+.feature-card11-text {
+  color: rgb(33,59,84);
+  align-self: center;
+  margin-bottom: var(--dl-space-space-unit);
+}
+.feature-card11-image {
+  width: 139px;
+  height: 139px;
+  align-self: center;
+  object-fit: cover;
+  border-radius: 4px;
+  margin-bottom: var(--dl-space-space-unit);
+}
+.feature-card11-root-class-name {
+  max-width: auto;
+}
+.feature-card11-root-class-name1 {
+  max-width: auto;
+}
+.feature-card11-root-class-name2 {
+  max-width: auto;
+}
+.feature-card11-root-class-name3 {
+  max-width: auto;
+}
+.feature-card11-root-class-name4 {
+  max-width: auto;
+}
+.feature-card11-root-class-name5 {
+  max-width: auto;
+}
+.feature-card11-root-class-name6 {
+  max-width: auto;
+}
+.feature-card11-root-class-name7 {
+  max-width: auto;
+}
+.feature-card11-root-class-name8 {
+  max-width: auto;
+}
+.feature-card11-root-class-name9 {
+  max-width: auto;
+}
+.feature-card11-root-class-name10 {
+  max-width: auto;
+}
+.feature-card11-root-class-name11 {
+  max-width: auto;
+}
+.feature-card11-root-class-name12 {
+  max-width: auto;
+}
+.feature-card11-root-class-name13 {
+  max-width: auto;
+}
+.feature-card11-root-class-name14 {
+  max-width: auto;
+}
+.feature-card11-root-class-name15 {
+  max-width: auto;
+}
+.feature-card11-root-class-name16 {
+  max-width: auto;
+}
+.feature-card11-root-class-name17 {
+  max-width: auto;
+}
+.feature-card11-root-class-name18 {
+  max-width: auto;
+}
+.feature-card11-root-class-name19 {
+  max-width: auto;
+}
+.feature-card11-root-class-name20 {
+  width: 75%;
+  max-width: auto;
+}
+.feature-card11-root-class-name21 {
+  width: 75%;
+  max-width: auto;
+}
+.feature-card11-root-class-name22 {
+  width: 75%;
+  max-width: auto;
+}
+.feature-card11-root-class-name23 {
+  max-width: auto;
+}
+.feature-card11-root-class-name24 {
+  max-width: auto;
+}
+.feature-card11-root-class-name25 {
+  max-width: auto;
+}
+.feature-card11-root-class-name26 {
+  max-width: auto;
+}
+.feature-card11-root-class-name27 {
+  max-width: auto;
+}
+.feature-card11-root-class-name28 {
+  max-width: auto;
+}
+.feature-card11-root-class-name29 {
+  max-width: auto;
+}
+.feature-card11-root-class-name30 {
+  max-width: auto;
+}
+.feature-card11-root-class-name31 {
+  max-width: auto;
+}
+.feature-card11-root-class-name32 {
+  max-width: auto;
+}
+.feature-card11-root-class-name33 {
+  width: 75%;
+  max-width: auto;
+}
+.feature-card11-root-class-name34 {
+  width: 75%;
+  max-width: auto;
+}
+.feature-card11-root-class-name35 {
+  width: 75%;
+  max-width: auto;
+}
+.feature-card11-root-class-name36 {
+  max-width: auto;
+}
+.feature-card11-root-class-name37 {
+  max-width: auto;
+}
+.feature-card11-root-class-name38 {
+  max-width: auto;
+}
+.feature-card11-root-class-name39 {
+  max-width: auto;
+}
+.feature-card11-root-class-name40 {
+  max-width: auto;
+}
+.feature-card11-root-class-name41 {
+  max-width: auto;
+}
+.feature-card11-root-class-name42 {
+  max-width: auto;
+}
+.feature-card11-root-class-name43 {
+  max-width: auto;
+}
+.feature-card11-root-class-name44 {
+  max-width: auto;
+}
+.feature-card11-root-class-name45 {
+  max-width: auto;
+}
+.feature-card11-root-class-name46 {
+  width: 75%;
+  max-width: auto;
+}
+.feature-card11-root-class-name47 {
+  width: 75%;
+  max-width: auto;
+}
+.feature-card11-root-class-name48 {
+  width: 75%;
+  max-width: auto;
+}
+.feature-card11-root-class-name49 {
+  max-width: auto;
+}
+.feature-card11-root-class-name50 {
+  max-width: auto;
+}
+.feature-card11-root-class-name51 {
+  max-width: auto;
+}
+.feature-card11-root-class-name52 {
+  max-width: auto;
+}
+.feature-card11-root-class-name53 {
+  max-width: auto;
+}
+.feature-card11-root-class-name54 {
+  max-width: auto;
+}
+.feature-card11-root-class-name55 {
+  max-width: auto;
+}
+.feature-card11-root-class-name56 {
+  max-width: auto;
+}
+.feature-card11-root-class-name57 {
+  max-width: auto;
+}
+.feature-card11-root-class-name58 {
+  max-width: auto;
+}
+.feature-card11-root-class-name59 {
+  width: 75%;
+  max-width: auto;
+}
+.feature-card11-root-class-name60 {
+  width: 75%;
+  max-width: auto;
+}
+.feature-card11-root-class-name61 {
+  width: 75%;
+  max-width: auto;
+}
+.feature-card11-root-class-name62 {
+  max-width: auto;
+}
+.feature-card11-root-class-name63 {
+  max-width: auto;
+}
+.feature-card11-root-class-name64 {
+  max-width: auto;
+}
+.feature-card11-root-class-name65 {
+  max-width: auto;
+}
+.feature-card11-root-class-name66 {
+  max-width: auto;
+}
+.feature-card11-root-class-name67 {
+  max-width: auto;
+}
+.feature-card11-root-class-name68 {
+  max-width: auto;
+}
+.feature-card11-root-class-name69 {
+  max-width: auto;
+}
+.feature-card11-root-class-name70 {
+  max-width: auto;
+}
+.feature-card11-root-class-name71 {
+  max-width: auto;
+}
+.feature-card11-root-class-name72 {
+  width: 75%;
+  max-width: auto;
+}
+.feature-card11-root-class-name73 {
+  width: 75%;
+  max-width: auto;
+}
+.feature-card11-root-class-name74 {
+  width: 75%;
+  max-width: auto;
+}
+.feature-card11-root-class-name75 {
+  max-width: auto;
+}
+.feature-card11-root-class-name76 {
+  max-width: auto;
+}
+.feature-card11-root-class-name77 {
+  max-width: auto;
+}
+.feature-card11-root-class-name78 {
+  max-width: auto;
+}
+.feature-card11-root-class-name79 {
+  max-width: auto;
+}
+.feature-card11-root-class-name80 {
+  max-width: auto;
+}
+.feature-card11-root-class-name81 {
+  max-width: auto;
+}
+.feature-card11-root-class-name82 {
+  max-width: auto;
+}
+.feature-card11-root-class-name83 {
+  max-width: auto;
+}
+.feature-card11-root-class-name84 {
+  max-width: auto;
+}
+.feature-card11-root-class-name85 {
+  width: 75%;
+  max-width: auto;
+}
+.feature-card11-root-class-name86 {
+  width: 75%;
+  max-width: auto;
+}
+.feature-card11-root-class-name87 {
+  width: 75%;
+  max-width: auto;
+}
+@media(max-width: 1200px) {
+  .feature-card11-feature-card {
+    padding: 0px;
+  }
+  .feature-card11-image {
+    width: 126px;
+    height: 126x;
+  }
+}
+@media(max-width: 991px) {
+  .feature-card11-feature-card {
+    padding: 0px;
+  }
+  .feature-card11-image {
+    width: 126px;
+    height: 126px;
+  }
+}
+@media(max-width: 414px) {
+  .feature-card11-feature-card {
+    padding: 0px;
+    max-width: 100%;
+    align-items: flex-end;
+    justify-content: center;
+  }
+  .feature-card11-text {
+    color: rgb(33,59,84);
+    align-self: center;
+    text-align: center;
+  }
+  .feature-card11-image {
+    align-self: center;
+  }
+  .feature-card11-root-class-name20 {
+    top: 0px;
+    left: 55px;
+    margin: auto;
+    position: absolute;
+  }
+  .feature-card11-root-class-name21 {
+    left: 56px;
+    bottom: -685px;
+    position: absolute;
+  }
+  .feature-card11-root-class-name22 {
+    left: 56px;
+    bottom: -441px;
+    position: absolute;
+  }
+  .feature-card11-root-class-name33 {
+    top: 0px;
+    left: 55px;
+    margin: auto;
+    position: absolute;
+  }
+  .feature-card11-root-class-name34 {
+    left: 56px;
+    bottom: -685px;
+    position: absolute;
+  }
+  .feature-card11-root-class-name35 {
+    left: 56px;
+    bottom: -441px;
+    position: absolute;
+  }
+  .feature-card11-root-class-name46 {
+    top: 0px;
+    left: 55px;
+    margin: auto;
+    position: absolute;
+  }
+  .feature-card11-root-class-name47 {
+    left: 56px;
+    bottom: -685px;
+    position: absolute;
+  }
+  .feature-card11-root-class-name48 {
+    left: 56px;
+    bottom: -441px;
+    position: absolute;
+  }
+  .feature-card11-root-class-name59 {
+    top: 0px;
+    left: 55px;
+    margin: auto;
+    position: absolute;
+  }
+  .feature-card11-root-class-name60 {
+    left: 56px;
+    bottom: -685px;
+    position: absolute;
+  }
+  .feature-card11-root-class-name61 {
+    left: 56px;
+    bottom: -441px;
+    position: absolute;
+  }
+  .feature-card11-root-class-name72 {
+    top: 0px;
+    left: 55px;
+    margin: auto;
+    position: absolute;
+  }
+  .feature-card11-root-class-name73 {
+    left: 56px;
+    bottom: -685px;
+    position: absolute;
+  }
+  .feature-card11-root-class-name74 {
+    left: 56px;
+    bottom: -441px;
+    position: absolute;
+  }
+  .feature-card11-root-class-name85 {
+    top: 0px;
+    left: 55px;
+    margin: auto;
+    position: absolute;
+  }
+  .feature-card11-root-class-name86 {
+    left: 56px;
+    bottom: -685px;
+    position: absolute;
+  }
+  .feature-card11-root-class-name87 {
+    left: 56px;
+    bottom: -441px;
+    position: absolute;
+  }
+}
